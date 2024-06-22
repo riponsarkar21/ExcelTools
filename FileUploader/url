@@ -1,1 +1,11 @@
-http://riponsarkar.000webhostapp.com/FileUploader/
+"http://riponsarkar.000webhostapp.com/FileUploader/upload_test.html"   in this url you get the manual uploader.
+
+Then you can select and upload your desired file. this type of message. # File uploaded successfully: FileUploadRemotely/Test.xlsx # 
+Then you can check the file in your server.
+For your convenience you follow the steps to check if your file uploaded or not,
+go to "https://files.000webhost.com/"
+then go to "public_html"
+then go to "FileUploader"
+then go to "FileUploadRemotely"
+
+for your information here FileUploader is the root folder. if you need any change then do as your wish with upload.php file and also change the root folder.
